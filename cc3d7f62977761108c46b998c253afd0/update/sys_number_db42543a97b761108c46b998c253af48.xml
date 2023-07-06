@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_902362_mcfood_mc_proposal">x_902362_mcfood_mc_proposal</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1</number>
+        <prefix>MC-Proposal</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-06 12:24:04</sys_created_on>
+        <sys_id>db42543a97b761108c46b998c253af48</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MC-Proposal</sys_name>
+        <sys_package display_value="McDonald's Order" source="x_902362_mcfood">cc3d7f62977761108c46b998c253afd0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</sys_scope>
+        <sys_update_name>sys_number_db42543a97b761108c46b998c253af48</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-06 12:24:04</sys_updated_on>
+    </sys_number>
+</record_update>

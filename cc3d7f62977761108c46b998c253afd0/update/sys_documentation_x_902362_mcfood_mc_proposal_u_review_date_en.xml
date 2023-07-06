@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_review_date" label="Review Date" language="en" table="x_902362_mcfood_mc_proposal">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_review_date</element>
+            <help/>
+            <hint/>
+            <label>Review Date</label>
+            <language>en</language>
+            <name>x_902362_mcfood_mc_proposal</name>
+            <plural>Review Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-06 12:24:04</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Review Date</sys_name>
+            <sys_package display_value="McDonald's Order" source="x_902362_mcfood">cc3d7f62977761108c46b998c253afd0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</sys_scope>
+            <sys_update_name>sys_documentation_x_902362_mcfood_mc_proposal_u_review_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-06 12:24:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
