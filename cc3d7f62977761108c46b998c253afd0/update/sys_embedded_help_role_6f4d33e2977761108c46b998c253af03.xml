@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_902362_mcfood.mc manager" name="x_902362_mcfood.mc manager">634d33a2977761108c46b998c253afe6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-06 10:52:20</sys_created_on>
+        <sys_id>6f4d33e2977761108c46b998c253af03</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>634d33a2977761108c46b998c253afe6</sys_name>
+        <sys_package display_value="McDonald's Order" source="x_902362_mcfood">cc3d7f62977761108c46b998c253afd0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6f4d33e2977761108c46b998c253af03</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-06 10:52:20</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

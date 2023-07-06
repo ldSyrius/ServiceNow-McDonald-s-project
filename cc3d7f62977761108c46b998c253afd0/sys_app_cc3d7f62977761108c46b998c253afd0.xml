@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>643dbf22977761108c46b998c253aff9</logo>
+        <menu/>
+        <name>McDonald's Order</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_902362_mcfood</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Enjoy the wonderful world of Mc food!</short_description>
+        <source>x_902362_mcfood</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-06 10:51:50</sys_created_on>
+        <sys_id>cc3d7f62977761108c46b998c253afd0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-06 10:51:52</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=cc3d7f62977761108c46b998c253afd0"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>download.png</file_name>
+        <hash>425428bf90ba835be04bd1826ed02c3e72097d5f8006172cadfd2b8f8599faeb</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1870</size_bytes>
+        <size_compressed>1893</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-06 10:51:52</sys_created_on>
+        <sys_id>643dbf22977761108c46b998c253aff9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-06 10:51:54</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>cc3d7f62977761108c46b998c253afd0</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="download.png" sys_id="643dbf22977761108c46b998c253aff9">643dbf22977761108c46b998c253aff9</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-06 10:51:52</sys_created_on>
+        <sys_id>a43dbf22977761108c46b998c253aff9</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2512</length>
+        <position>1</position>
+        <sys_attachment display_value="download.png" sys_id="643dbf22977761108c46b998c253aff9">643dbf22977761108c46b998c253aff9</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-06 10:51:52</sys_created_on>
+        <sys_id>283dbf22977761108c46b998c253aff9</sys_id>
+    </sys_attachment_doc>
+</record_update>
