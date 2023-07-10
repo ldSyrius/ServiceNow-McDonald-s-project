@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_902362_mcfood.mc worker" name="x_902362_mcfood.mc worker">a74d33a2977761108c46b998c253af4b</contains>
+        <role display_value="x_902362_mcfood.mc manager" name="x_902362_mcfood.mc manager">634d33a2977761108c46b998c253afe6</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-06 12:36:50</sys_created_on>
+        <sys_id>9e35d8fa97b761108c46b998c253af3c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_902362_mcfood.mc worker.x_902362_mcfood.mc manager</sys_name>
+        <sys_package display_value="McDonald's Order" source="x_902362_mcfood">cc3d7f62977761108c46b998c253afd0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</sys_scope>
+        <sys_update_name>sys_user_role_contains_9e35d8fa97b761108c46b998c253af3c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-06 12:36:50</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

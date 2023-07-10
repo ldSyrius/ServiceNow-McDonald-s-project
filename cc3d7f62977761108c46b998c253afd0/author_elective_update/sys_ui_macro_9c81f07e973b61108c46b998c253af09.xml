@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_macro">
+    <sys_ui_macro action="DELETE">
+        <active>true</active>
+        <category>general</category>
+        <description>This is responsible for setting the background of the form.</description>
+        <media_type/>
+        <name>mc_proposal</name>
+        <scoped_name>x_902362_mcfood_mc_proposal</scoped_name>
+        <sys_class_name>sys_ui_macro</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-06 14:44:38</sys_created_on>
+        <sys_id>9c81f07e973b61108c46b998c253af09</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>mc_proposal</sys_name>
+        <sys_package display_value="McDonald's Order" source="x_902362_mcfood">cc3d7f62977761108c46b998c253afd0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</sys_scope>
+        <sys_update_name>sys_ui_macro_9c81f07e973b61108c46b998c253af09</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-06 14:56:05</sys_updated_on>
+        <xml><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+
+.touch_scroll{
+	background:url("/x_902362_mcfood.proposal_background.jpg");
+	background-size:cover;
+	background-position:center;
+}
+
+</j:jelly>]]></xml>
+    </sys_ui_macro>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</application>
+        <file_path/>
+        <instance_id>453e248edb1e19180b9d21c405961912</instance_id>
+        <instance_name>dev138666</instance_name>
+        <name>sys_ui_macro_9c81f07e973b61108c46b998c253af09</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_macro"&gt;&lt;sys_ui_macro action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;category&gt;general&lt;/category&gt;&lt;description&gt;This is responsible for setting the background of the form.&lt;/description&gt;&lt;media_type/&gt;&lt;name&gt;mc_proposal&lt;/name&gt;&lt;scoped_name&gt;x_902362_mcfood_mc_proposal&lt;/scoped_name&gt;&lt;sys_class_name&gt;sys_ui_macro&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-07-06 14:44:38&lt;/sys_created_on&gt;&lt;sys_id&gt;9c81f07e973b61108c46b998c253af09&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;mc_proposal&lt;/sys_name&gt;&lt;sys_package display_value="McDonald's Order" source="x_902362_mcfood"&gt;cc3d7f62977761108c46b998c253afd0&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="McDonald's Order"&gt;cc3d7f62977761108c46b998c253afd0&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_macro_9c81f07e973b61108c46b998c253af09&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-07-06 14:56:05&lt;/sys_updated_on&gt;&lt;xml&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="utf-8" ?&gt;
+&lt;j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null"&gt;
+
+.touch_scroll{
+	background:url("/x_902362_mcfood.proposal_background.jpg");
+	background-size:cover;
+	background-position:center;
+}
+
+&lt;/j:jelly&gt;]]&gt;&lt;/xml&gt;&lt;/sys_ui_macro&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1356044</payload_hash>
+        <record_name>mc_proposal</record_name>
+        <reverted_from/>
+        <source>7e1f403697b761108c46b998c253afbe</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-06 14:56:06</sys_created_on>
+        <sys_id>0615fc32977b61108c46b998c253afba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1892bb4079b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-06 14:56:06</sys_updated_on>
+        <type>Macro</type>
+        <update_guid>ca15fc328a7b6110c129338b3719abb9</update_guid>
+        <update_guid_history>ca15fc328a7b6110c129338b3719abb9:1356044,9c1438fef03b6110c18f72fff18a7428:-1595043975,c89374fece3b61101d0eb4d9901a0834:-456082238,bda2743ea63b61101b78bf17ae8b9ece:1356044,3392743e6b3b61108792d2c193192ecb:2012409752,5a72343ea13b61101d4b83221ff21557:1356044</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-06 15:01:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_macro">sys_ui_macro</sys_db_object>
+        <sys_id>2c8ee2adb65348d7a426f268b5d0c4c9</sys_id>
+        <sys_metadata>9c81f07e973b61108c46b998c253af09</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mc_proposal</sys_name>
+        <sys_package display_value="McDonald's Order" source="x_902362_mcfood">cc3d7f62977761108c46b998c253afd0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</sys_scope>
+        <sys_scope_delete display_value="">3abad240c7bc41ae9424930976e8c344</sys_scope_delete>
+        <sys_update_name>sys_ui_macro_9c81f07e973b61108c46b998c253af09</sys_update_name>
+        <sys_update_version display_value="sys_ui_macro_9c81f07e973b61108c46b998c253af09">0615fc32977b61108c46b998c253afba</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-06 15:01:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

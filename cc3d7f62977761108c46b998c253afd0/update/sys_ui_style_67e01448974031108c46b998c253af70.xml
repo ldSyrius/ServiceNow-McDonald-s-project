@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>number</element>
+        <name>x_902362_mcfood_mc_proposal</name>
+        <style>background: darkgreen;&#13;
+&#13;
+font-weight: bold;&#13;
+font-size: 25px;&#13;
+color: #FFC72C;&#13;
+&#13;
+border-color: transparent;&#13;
+box-shadow: none !important;&#13;
+outline: none;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-10 09:30:41</sys_created_on>
+        <sys_id>67e01448974031108c46b998c253af70</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>x_902362_mcfood_mc_proposal</sys_name>
+        <sys_package display_value="McDonald's Order" source="x_902362_mcfood">cc3d7f62977761108c46b998c253afd0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</sys_scope>
+        <sys_update_name>sys_ui_style_67e01448974031108c46b998c253af70</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-10 10:26:05</sys_updated_on>
+        <value/>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=67e01448974031108c46b998c253af70"/>
+</record_update>

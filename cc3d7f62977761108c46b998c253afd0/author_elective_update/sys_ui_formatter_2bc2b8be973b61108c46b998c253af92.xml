@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter">
+    <sys_ui_formatter action="DELETE">
+        <active>true</active>
+        <angular_module/>
+        <formatter>mc_proposal.xml</formatter>
+        <name>Mc Proposal Format</name>
+        <seismic_component/>
+        <sys_class_name>sys_ui_formatter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-06 14:47:30</sys_created_on>
+        <sys_id>2bc2b8be973b61108c46b998c253af92</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Mc Proposal Format</sys_name>
+        <sys_package display_value="McDonald's Order" source="x_902362_mcfood">cc3d7f62977761108c46b998c253afd0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</sys_scope>
+        <sys_update_name>sys_ui_formatter_2bc2b8be973b61108c46b998c253af92</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-06 14:59:25</sys_updated_on>
+        <table>x_902362_mcfood_mc_proposal</table>
+        <type>formatter</type>
+    </sys_ui_formatter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</application>
+        <file_path/>
+        <instance_id>453e248edb1e19180b9d21c405961912</instance_id>
+        <instance_name>dev138666</instance_name>
+        <name>sys_ui_formatter_2bc2b8be973b61108c46b998c253af92</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_formatter"><sys_ui_formatter action="INSERT_OR_UPDATE"><active>true</active><angular_module/><formatter>mc_proposal.xml</formatter><name>Mc Proposal Format</name><seismic_component/><sys_class_name>sys_ui_formatter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-06 14:47:30</sys_created_on><sys_id>2bc2b8be973b61108c46b998c253af92</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Mc Proposal Format</sys_name><sys_package display_value="McDonald's Order" source="x_902362_mcfood">cc3d7f62977761108c46b998c253afd0</sys_package><sys_policy/><sys_scope display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</sys_scope><sys_update_name>sys_ui_formatter_2bc2b8be973b61108c46b998c253af92</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-06 14:59:25</sys_updated_on><table>x_902362_mcfood_mc_proposal</table><type>formatter</type></sys_ui_formatter></record_update>]]></payload>
+        <payload_hash>1979967303</payload_hash>
+        <record_name>Mc Proposal Format</record_name>
+        <reverted_from/>
+        <source>7e1f403697b761108c46b998c253afbe</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-06 14:59:25</sys_created_on>
+        <sys_id>bad57472977b61108c46b998c253af36</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1892bb713550000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-06 14:59:25</sys_updated_on>
+        <type>UI Formatter</type>
+        <update_guid>72d57472bf7b61108d46df5e58d37536</update_guid>
+        <update_guid_history>72d57472bf7b61108d46df5e58d37536:1979967303,e02530fef13b6110644ddf091d5cf72d:-1163030354,51f4fc32ba7b611004de37cedaeac093:1979967303,add47c326c7b6110daae4d9d888db42e:609804504,d023b07e813b611037002c56a0b76171:1979967303</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-06 15:01:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_formatter">sys_ui_formatter</sys_db_object>
+        <sys_id>7313af413f204330995ac827715b2c40</sys_id>
+        <sys_metadata>2bc2b8be973b61108c46b998c253af92</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mc Proposal Format</sys_name>
+        <sys_package display_value="McDonald's Order" source="x_902362_mcfood">cc3d7f62977761108c46b998c253afd0</sys_package>
+        <sys_parent display_value="Mc Proposal">2d3fc07697b761108c46b998c253af70</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</sys_scope>
+        <sys_scope_delete display_value="">3abad240c7bc41ae9424930976e8c344</sys_scope_delete>
+        <sys_update_name>sys_ui_formatter_2bc2b8be973b61108c46b998c253af92</sys_update_name>
+        <sys_update_version display_value="sys_ui_formatter_2bc2b8be973b61108c46b998c253af92">bad57472977b61108c46b998c253af36</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-06 15:01:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
