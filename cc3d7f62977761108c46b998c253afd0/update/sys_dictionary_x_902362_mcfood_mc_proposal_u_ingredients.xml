@@ -40,12 +40,14 @@
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference/>
+        <reference display_value="" name="cmdb_ci">cmdb_ci</reference>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
-        <reference_qual/>
-        <reference_qual_condition/>
+        <reference_qual>category=Ingredient^EQ</reference_qual>
+        <reference_qual_condition table="cmdb_ci">category=Ingredient^EQ<item endquery="false" field="category" goto="false" newquery="false" operator="=" or="false" value="Ingredient"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </reference_qual_condition>
         <reference_type/>
         <spell_check>false</spell_check>
         <staged>false</staged>
@@ -58,7 +60,7 @@
         <sys_scope display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</sys_scope>
         <sys_update_name>sys_dictionary_x_902362_mcfood_mc_proposal_u_ingredients</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-06 12:33:44</sys_updated_on>
+        <sys_updated_on>2023-07-10 12:34:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

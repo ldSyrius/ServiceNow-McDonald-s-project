@@ -5,7 +5,7 @@
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>( Approved )</column_label>
@@ -53,7 +53,7 @@
         <sys_scope display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</sys_scope>
         <sys_update_name>sys_dictionary_x_902362_mcfood_mc_proposal_u_approved</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-10 10:57:38</sys_updated_on>
+        <sys_updated_on>2023-07-10 12:23:25</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
