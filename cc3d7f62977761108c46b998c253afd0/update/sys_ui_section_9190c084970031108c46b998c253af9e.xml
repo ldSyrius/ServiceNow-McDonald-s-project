@@ -3,190 +3,190 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:16</sys_created_on>
-            <sys_id>4d1ab484970431108c46b998c253afe1</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>e4a7625c978431108c46b998c253af04</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:16</sys_updated_on>
-            <text/>
-            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
-        </sys_ui_annotation>
-        <sys_ui_annotation action="INSERT_OR_UPDATE">
-            <is_plain_text>false</is_plain_text>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:16</sys_created_on>
-            <sys_id>491ab484970431108c46b998c253afe2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:16</sys_updated_on>
-            <text/>
-            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
-        </sys_ui_annotation>
-        <sys_ui_annotation action="INSERT_OR_UPDATE">
-            <is_plain_text>false</is_plain_text>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:16</sys_created_on>
-            <sys_id>091ab484970431108c46b998c253afe3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:16</sys_updated_on>
-            <text/>
-            <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
-        </sys_ui_annotation>
-        <sys_ui_annotation action="INSERT_OR_UPDATE">
-            <is_plain_text>false</is_plain_text>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:16</sys_created_on>
-            <sys_id>051ab484970431108c46b998c253afe1</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:16</sys_updated_on>
-            <text/>
-            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
-        </sys_ui_annotation>
-        <sys_ui_annotation action="INSERT_OR_UPDATE">
-            <is_plain_text>false</is_plain_text>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:16</sys_created_on>
-            <sys_id>c11ab484970431108c46b998c253afe2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:16</sys_updated_on>
-            <text/>
-            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
-        </sys_ui_annotation>
-        <sys_ui_annotation action="INSERT_OR_UPDATE">
-            <is_plain_text>false</is_plain_text>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:16</sys_created_on>
-            <sys_id>cd1ab484970431108c46b998c253afe2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:16</sys_updated_on>
-            <text/>
-            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
-        </sys_ui_annotation>
-        <sys_ui_annotation action="INSERT_OR_UPDATE">
-            <is_plain_text>false</is_plain_text>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:16</sys_created_on>
-            <sys_id>c51ab484970431108c46b998c253afe1</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:16</sys_updated_on>
-            <text/>
-            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
-        </sys_ui_annotation>
-        <sys_ui_annotation action="INSERT_OR_UPDATE">
-            <is_plain_text>false</is_plain_text>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:16</sys_created_on>
-            <sys_id>451ab484970431108c46b998c253afe0</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:16</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <text/>
             <type display_value="Top McBanner">34e10cc4970031108c46b998c253af5a</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:16</sys_created_on>
-            <sys_id>411ab484970431108c46b998c253afe1</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>a8a7625c978431108c46b998c253af04</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:16</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <text/>
             <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:16</sys_created_on>
-            <sys_id>011ab484970431108c46b998c253afe2</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>e0a7625c978431108c46b998c253af05</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:16</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <text/>
             <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:16</sys_created_on>
-            <sys_id>0d1ab484970431108c46b998c253afe2</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>68a7625c978431108c46b998c253af05</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:16</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
+            <text/>
+            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>64a7625c978431108c46b998c253af06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
+            <text/>
+            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>24a7625c978431108c46b998c253af07</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <text/>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:16</sys_created_on>
-            <sys_id>851ab484970431108c46b998c253afe2</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>20a7625c978431108c46b998c253af05</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:16</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <text/>
             <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:16</sys_created_on>
-            <sys_id>811ab484970431108c46b998c253afe3</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>eca7625c978431108c46b998c253af05</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:16</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
+            <text/>
+            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>e8a7625c978431108c46b998c253af06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
+            <text/>
+            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>a4a7625c978431108c46b998c253af05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
+            <text/>
+            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>60a7625c978431108c46b998c253af07</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
+            <text/>
+            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>6ca7625c978431108c46b998c253af04</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
+            <text/>
+            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>2ca7625c978431108c46b998c253af05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
+            <text/>
+            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>28a7625c978431108c46b998c253af06</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <text/>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:16</sys_created_on>
-            <sys_id>8d1ab484970431108c46b998c253afe0</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>a0a7625c978431108c46b998c253af06</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:16</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <text/>
             <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:16</sys_created_on>
-            <sys_id>891ab484970431108c46b998c253afe1</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>aca7625c978431108c46b998c253af06</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:16</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <text/>
-            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
-        </sys_ui_annotation>
-        <sys_ui_annotation action="INSERT_OR_UPDATE">
-            <is_plain_text>false</is_plain_text>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:16</sys_created_on>
-            <sys_id>451ab484970431108c46b998c253afe3</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:16</sys_updated_on>
-            <text/>
-            <type display_value="Plain Text">8e7fdb04531300109686ddeeff7b127d</type>
+            <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>451ab484970431108c46b998c253afe0</element>
+            <element>e4a7625c978431108c46b998c253af04</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:16</sys_created_on>
-            <sys_id>811ab484970431108c46b998c253aff4</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>30a7625c978431108c46b998c253af17</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:16</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -194,27 +194,27 @@
             <element>.begin_split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>091ab484970431108c46b998c253aff4</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>b0a7625c978431108c46b998c253af17</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>8d1ab484970431108c46b998c253afe0</element>
+            <element>a8a7625c978431108c46b998c253af04</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>891ab484970431108c46b998c253aff4</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>34a7625c978431108c46b998c253af17</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -222,573 +222,559 @@
             <element>number</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>0d1ab484970431108c46b998c253aff4</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>b4a7625c978431108c46b998c253af17</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_active</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>8d1ab484970431108c46b998c253aff4</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_approved</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>011ab484970431108c46b998c253aff5</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>38a7625c978431108c46b998c253af17</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>411ab484970431108c46b998c253afe1</element>
-            <position>6</position>
+            <element>6ca7625c978431108c46b998c253af04</element>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>811ab484970431108c46b998c253aff5</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>b8a7625c978431108c46b998c253af17</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>051ab484970431108c46b998c253afe1</element>
-            <position>7</position>
+            <element>20a7625c978431108c46b998c253af05</element>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>051ab484970431108c46b998c253aff5</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>3ca7625c978431108c46b998c253af17</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_on</element>
-            <position>8</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>851ab484970431108c46b998c253aff5</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>bca7625c978431108c46b998c253af17</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_created_by</element>
-            <position>9</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>091ab484970431108c46b998c253aff5</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>30a7625c978431108c46b998c253af18</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>10</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>891ab484970431108c46b998c253aff5</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>b0a7625c978431108c46b998c253af18</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>c51ab484970431108c46b998c253afe1</element>
+            <element>e0a7625c978431108c46b998c253af05</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>34a7625c978431108c46b998c253af18</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>a4a7625c978431108c46b998c253af05</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>0d1ab484970431108c46b998c253aff5</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>b4a7625c978431108c46b998c253af18</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>891ab484970431108c46b998c253afe1</element>
+            <element>68a7625c978431108c46b998c253af05</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>8d1ab484970431108c46b998c253aff5</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>38a7625c978431108c46b998c253af18</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>4d1ab484970431108c46b998c253afe1</element>
+            <element>2ca7625c978431108c46b998c253af05</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>011ab484970431108c46b998c253aff6</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>b8a7625c978431108c46b998c253af18</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>011ab484970431108c46b998c253afe2</element>
+            <element>eca7625c978431108c46b998c253af05</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>811ab484970431108c46b998c253aff6</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>3ca7625c978431108c46b998c253af18</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>c11ab484970431108c46b998c253afe2</element>
+            <element>a0a7625c978431108c46b998c253af06</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>051ab484970431108c46b998c253aff6</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>bca7625c978431108c46b998c253af18</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
-            <sys_user/>
-            <type>annotation</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>851ab484970431108c46b998c253afe2</element>
-            <position>16</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>851ab484970431108c46b998c253aff6</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_updated_on</element>
-            <position>17</position>
+            <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>091ab484970431108c46b998c253aff6</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>30a7625c978431108c46b998c253af19</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_updated_by</element>
-            <position>18</position>
+            <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>891ab484970431108c46b998c253aff6</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>b0a7625c978431108c46b998c253af19</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_mod_count</element>
-            <position>19</position>
+            <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>0d1ab484970431108c46b998c253aff6</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>34a7625c978431108c46b998c253af19</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>20</position>
+            <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>8d1ab484970431108c46b998c253aff6</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>b4a7625c978431108c46b998c253af19</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>491ab484970431108c46b998c253afe2</element>
-            <position>21</position>
+            <element>64a7625c978431108c46b998c253af06</element>
+            <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>011ab484970431108c46b998c253aff7</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>38a7625c978431108c46b998c253af19</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>0d1ab484970431108c46b998c253afe2</element>
-            <position>22</position>
+            <element>28a7625c978431108c46b998c253af06</element>
+            <position>21</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>811ab484970431108c46b998c253aff7</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>b8a7625c978431108c46b998c253af19</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>23</position>
+            <position>22</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>051ab484970431108c46b998c253aff7</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>3ca7625c978431108c46b998c253af19</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_name</element>
-            <position>24</position>
+            <position>23</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>851ab484970431108c46b998c253aff7</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>bca7625c978431108c46b998c253af19</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_category</element>
-            <position>25</position>
+            <position>24</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>091ab484970431108c46b998c253aff7</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>30a7625c978431108c46b998c253af1a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>26</position>
+            <position>25</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>891ab484970431108c46b998c253aff7</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>b0a7625c978431108c46b998c253af1a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_media</element>
-            <position>27</position>
+            <position>26</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>0d1ab484970431108c46b998c253aff7</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>34a7625c978431108c46b998c253af1a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>28</position>
+            <position>27</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>8d1ab484970431108c46b998c253aff7</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>b4a7625c978431108c46b998c253af1a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_description</element>
-            <position>29</position>
+            <position>28</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>011ab484970431108c46b998c253aff8</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>38a7625c978431108c46b998c253af1a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_test</element>
-            <position>30</position>
+            <position>29</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>811ab484970431108c46b998c253aff8</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>b8a7625c978431108c46b998c253af1a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>cd1ab484970431108c46b998c253afe2</element>
-            <position>31</position>
+            <element>e8a7625c978431108c46b998c253af06</element>
+            <position>30</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>051ab484970431108c46b998c253aff8</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>3ca7625c978431108c46b998c253af1a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>811ab484970431108c46b998c253afe3</element>
-            <position>32</position>
+            <element>aca7625c978431108c46b998c253af06</element>
+            <position>31</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>851ab484970431108c46b998c253aff8</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>bca7625c978431108c46b998c253af1a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_ingredients</element>
-            <position>33</position>
+            <position>32</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>091ab484970431108c46b998c253aff8</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>30a7625c978431108c46b998c253af1b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_cooking_time</element>
-            <position>34</position>
+            <position>33</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>891ab484970431108c46b998c253aff8</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>b0a7625c978431108c46b998c253af1b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_ingredient_costs</element>
-            <position>35</position>
+            <position>34</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>0d1ab484970431108c46b998c253aff8</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>34a7625c978431108c46b998c253af1b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>451ab484970431108c46b998c253afe3</element>
-            <position>36</position>
+            <element>60a7625c978431108c46b998c253af07</element>
+            <position>35</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>8d1ab484970431108c46b998c253aff8</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>b4a7625c978431108c46b998c253af1b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>091ab484970431108c46b998c253afe3</element>
-            <position>37</position>
+            <element>24a7625c978431108c46b998c253af07</element>
+            <position>36</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>011ab484970431108c46b998c253aff9</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>38a7625c978431108c46b998c253af1b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.begin_split</element>
-            <position>38</position>
+            <position>37</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>811ab484970431108c46b998c253aff9</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>b8a7625c978431108c46b998c253af1b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_state</element>
-            <position>39</position>
+            <position>38</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>051ab484970431108c46b998c253aff9</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>3ca7625c978431108c46b998c253af1b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_review_date</element>
-            <position>40</position>
+            <position>39</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>851ab484970431108c46b998c253aff9</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>bca7625c978431108c46b998c253af1b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>41</position>
+            <position>40</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>091ab484970431108c46b998c253aff9</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>30a7625c978431108c46b998c253af1c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_decision</element>
-            <position>42</position>
+            <position>41</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>891ab484970431108c46b998c253aff9</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>b0a7625c978431108c46b998c253af1c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_retail_price</element>
-            <position>43</position>
+            <position>42</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-07-10 12:30:17</sys_created_on>
-            <sys_id>0d1ab484970431108c46b998c253aff9</sys_id>
+            <sys_created_on>2023-07-11 15:07:25</sys_created_on>
+            <sys_id>34a7625c978431108c46b998c253af1c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902362_mcfood_mc_proposal" sys_domain="global" view="Default view">9190c084970031108c46b998c253af9e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-07-10 12:30:17</sys_updated_on>
+            <sys_updated_on>2023-07-11 15:07:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
