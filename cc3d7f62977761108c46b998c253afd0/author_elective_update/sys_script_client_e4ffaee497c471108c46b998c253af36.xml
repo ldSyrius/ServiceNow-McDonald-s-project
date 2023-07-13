@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Mc Image Handler</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+	g_form.addInfoMessage('test');
+    g_form.setMandatory('u_media', true);
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 10:23:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e4ffaee497c471108c46b998c253af36</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Mc Image Handler</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="McDonald's Order" source="x_902362_mcfood">cc3d7f62977761108c46b998c253afd0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</sys_scope>
+        <sys_update_name>sys_script_client_e4ffaee497c471108c46b998c253af36</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 10:39:54</sys_updated_on>
+        <table>x_902362_mcfood_mc_proposal</table>
+        <type>onSubmit</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</application>
+        <file_path/>
+        <instance_id>453e248edb1e19180b9d21c405961912</instance_id>
+        <instance_name>dev138666</instance_name>
+        <name>sys_script_client_e4ffaee497c471108c46b998c253af36</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Mc Image Handler&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onSubmit() {
+	g_form.addInfoMessage('test');
+    g_form.setMandatory('u_media', true);
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-07-12 10:23:51&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;e4ffaee497c471108c46b998c253af36&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Mc Image Handler&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="McDonald's Order" source="x_902362_mcfood"&gt;cc3d7f62977761108c46b998c253afd0&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="McDonald's Order"&gt;cc3d7f62977761108c46b998c253afd0&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_e4ffaee497c471108c46b998c253af36&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-07-12 10:39:54&lt;/sys_updated_on&gt;&lt;table&gt;x_902362_mcfood_mc_proposal&lt;/table&gt;&lt;type&gt;onSubmit&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1333860743</payload_hash>
+        <record_name>Mc Image Handler</record_name>
+        <reverted_from/>
+        <source>7e1f403697b761108c46b998c253afbe</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 10:39:54</sys_created_on>
+        <sys_id>27f33a2c97c471108c46b998c253afc0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18949afa0b00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 10:39:54</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>ebf33a2c86c4711091d33306a2e32fbf</update_guid>
+        <update_guid_history>ebf33a2c86c4711091d33306a2e32fbf:-1333860743,ba62b6a8a0c47110502836a1b192d9ab:431382604,bc507ae41cc471105a0be7edc78d8c76:1176372367</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-12 12:55:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>36c6c98d468747719da6ce945db19579</sys_id>
+        <sys_metadata>e4ffaee497c471108c46b998c253af36</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mc Image Handler</sys_name>
+        <sys_package display_value="McDonald's Order" source="x_902362_mcfood">cc3d7f62977761108c46b998c253afd0</sys_package>
+        <sys_parent display_value="Mc Proposal">2d3fc07697b761108c46b998c253af70</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</sys_scope>
+        <sys_scope_delete display_value="">3abad240c7bc41ae9424930976e8c344</sys_scope_delete>
+        <sys_update_name>sys_script_client_e4ffaee497c471108c46b998c253af36</sys_update_name>
+        <sys_update_version display_value="sys_script_client_e4ffaee497c471108c46b998c253af36">27f33a2c97c471108c46b998c253afc0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-12 12:55:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

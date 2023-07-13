@@ -21,6 +21,13 @@
 	var activeV = g_form.getValue('x_902362_mcfood_mc_proposal.u_decision');
 	if(activeV == '0') active.style.color = 'white';
 	else active.style.color = 'transparent';
+	
+	if(g_form.isNewRecord()){
+		hide('sysverb_insert');
+		hide('sysverb_insert_bottom');
+		hide('create_new');
+	}
+	
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -28,7 +35,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6a54904c974031108c46b998c253af47</sys_id>
-        <sys_mod_count>37</sys_mod_count>
+        <sys_mod_count>61</sys_mod_count>
         <sys_name>McDesigner</sys_name>
         <sys_overrides/>
         <sys_package display_value="McDonald's Order" source="x_902362_mcfood">cc3d7f62977761108c46b998c253afd0</sys_package>
@@ -36,7 +43,7 @@
         <sys_scope display_value="McDonald's Order">cc3d7f62977761108c46b998c253afd0</sys_scope>
         <sys_update_name>sys_script_client_6a54904c974031108c46b998c253af47</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-10 13:35:12</sys_updated_on>
+        <sys_updated_on>2023-07-13 10:03:09</sys_updated_on>
         <table>x_902362_mcfood_mc_proposal</table>
         <type>onLoad</type>
         <ui_type>0</ui_type>
